@@ -1,0 +1,6 @@
+person:
+  name: 小强
+  age: 25
+
+server:
+  port: 8082
